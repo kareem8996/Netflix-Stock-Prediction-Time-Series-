@@ -1,5 +1,7 @@
 # Netflix-Stock-Prediction-Time-Series-
 
+### Note: Plotly graphs don't seem to appear on github, will fix it soon!
+
 ## Overview
 This project aims to predict the future stock prices of Netflix (NFLX) using time series analysis techniques. By analyzing historical stock price data and identifying patterns, trends, and seasonality, the goal is to develop a predictive model that can forecast Netflix's stock prices with reasonable accuracy.
 
